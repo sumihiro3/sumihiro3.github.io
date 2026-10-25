@@ -432,7 +432,7 @@ li {
   align-items: flex-end;
   flex-wrap: wrap;
   justify-content: space-between;
-  width: 150px;
+  width: 220px;
   margin: 0 auto;
 }
 
@@ -660,7 +660,7 @@ li {
   }
 
   #contact .contact-list ul {
-    width: 100px;
+    width: 150px;
   }
 
   #contact .contact-list li img {
